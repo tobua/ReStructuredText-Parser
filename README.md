@@ -43,3 +43,16 @@ The ReST source file
 The LaTeX destination file
 
     c.tex
+
+### Currently supported markup
+
+ ✔ Bold
+ 
+      This is \*\*bold\*\* Text.
+ 
+ ✔ Italics
+ ✘ Hyperlink
+ ✔ Chapter
+ ✔ Section
+ ✔ Bulleted Lists
+ ✘ Enumerated Lists
