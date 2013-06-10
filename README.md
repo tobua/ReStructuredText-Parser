@@ -48,11 +48,40 @@ The LaTeX destination file
 
  ✔ Bold
  
-      This is \*\*bold\*\* Text.
+      This is **bold** Text.
  
  ✔ Italics
- ✘ Hyperlink
+ 
+      How *about* it in italics.
+ 
  ✔ Chapter
+ 
+      A Parser
+      ========
+
  ✔ Section
+ 
+      This Will Be the Subtitle
+      -------------------------
+ 
  ✔ Bulleted Lists
+ 
+      Things that are awesome in Haskell:
+      
+      - Pattern Matching
+      - List Comprehensions
+      - Currying
+
  ✘ Enumerated Lists
+ 
+      Even better:
+      
+      1. Higher Order Functions
+      2. Type Constructors
+      3. IO
+
+ ✘ Hyperlink
+ 
+      We refer to github_ as the host of the source code.
+      
+      .. _github: http://github.com
