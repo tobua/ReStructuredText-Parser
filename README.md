@@ -1,4 +1,4 @@
 ReStructuredText-Parser
 =======================
 
-The Hakell parser converts ReST to LaTeX using the Parsec Library
+A parser written in Haskell that converts ReST to LaTeX using the Parsec Library
